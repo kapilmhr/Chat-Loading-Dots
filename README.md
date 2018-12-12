@@ -40,7 +40,7 @@ dependencies {
 For basic usage, simply add to layout xml:
 
  ```xml
-    <com.eyalbira.loadingdots.LoadingDots
+    <app.frantic.loadingdots.LoadingDots
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
  ```
@@ -48,7 +48,7 @@ For basic usage, simply add to layout xml:
 To customize, simply use the needed view attributes:
 
  ```xml
-    <com.eyalbira.loadingdots.LoadingDots
+    <app.frantic.loadingdots.LoadingDots
             xmlns:app="http://schemas.android.com/apk/res-auto"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
