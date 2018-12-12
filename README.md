@@ -26,7 +26,7 @@ And then in the other gradle file(may be your app gradle or your own module libr
 
 ``` gradle
 dependencies {
-	        implementation 'com.github.kapilmhr:Chat-Loading-Dots:Tag'
+	        implementation 'com.github.kapilmhr:Chat-Loading-Dots:1.0'
 	}
 ```
 
